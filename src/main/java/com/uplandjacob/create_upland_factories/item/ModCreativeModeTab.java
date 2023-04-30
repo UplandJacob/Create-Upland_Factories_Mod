@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab CREATE_JACOB_ADDITIONS = new CreativeModeTab("create_fact_tab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.INFUSED_REDSTONE.get());
+            return new ItemStack(ModItems.LIGHTING_HAMMER.get());
         }
     };
 }

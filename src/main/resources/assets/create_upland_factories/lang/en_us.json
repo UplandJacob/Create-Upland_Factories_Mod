@@ -1,6 +1,27 @@
 {
   "item.create_upland_factories.infused_redstone": "Infused Redstone",
+  "item.create_upland_factories.el_diamond_ingot": "Electrified Diamond Ingot",
+  "item.create_upland_factories.el_diamond_stick": "Electrified Diamond Stick",
+  "item.create_upland_factories.gem_cutter_tool": "Gem Cutter Tool",
 
+
+  "item.create_upland_factories.lightning_hammer": "Lighting Hammer",
+
+  "item.create_upland_factories.el_diamond_sword": "Electrified Diamond Sword",
+  "item.create_upland_factories.el_diamond_pickaxe": "Electrified Diamond Pickaxe",
+  "item.create_upland_factories.el_diamond_shovel": "Electrified Diamond Shovel",
+  "item.create_upland_factories.el_diamond_axe": "Electrified Diamond Axe",
+  "item.create_upland_factories.el_diamond_hoe": "Electrified Diamond Hoe",
+
+  "item.create_upland_factories.el_diamond_helmet": "Electrified Diamond Helmet",
+  "item.create_upland_factories.el_diamond_chestplate": "Electrified Diamond Chestplate",
+  "item.create_upland_factories.el_diamond_leggings": "Electrified Diamond Leggings",
+  "item.create_upland_factories.el_diamond_boots": "Electrified Diamond Boots",
+
+
+  "block.create_upland_factories.el_diamond_ore": "Electrified Diamond Ore",
+  "block.create_upland_factories.deep_el_diamond_ore": "Deepslate Electrified Diamond Ore",
+  "block.create_upland_factories.el_diamond_block": "Electrified Diamond Block",
 
 
   "itemGroup.create_fact_tab": "Create - Upland Factories"

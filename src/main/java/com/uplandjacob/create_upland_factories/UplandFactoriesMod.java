@@ -1,6 +1,7 @@
 package com.uplandjacob.create_upland_factories;
 
 import com.mojang.logging.LogUtils;
+import com.uplandjacob.create_upland_factories.block.ModBlocks;
 import com.uplandjacob.create_upland_factories.item.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.api.distmarker.Dist;
@@ -22,6 +23,7 @@ public class UplandFactoriesMod {
     public UplandFactoriesMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
     }
